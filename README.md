@@ -21,7 +21,7 @@
 
 ## :information_source: Info
 <p>
-  A simple React Native App aimed to learn the principals of Props, States, FlatList and React Navigation in React Native. The aplication was eveloped in the online course "Meu Primeiro Aplicativo", (My First Application in english), conducted and designed by Felipe Fontoura from Dev Samurai.
+  A simple React Native App aimed to learn the principals of Props, States, FlatList and React Navigation in React Native. The application was developed in the online course "Meu Primeiro Aplicativo", (My First Application in english), conducted and designed by Felipe Fontoura from Dev Samurai.
 </p>
 
 ## Design 🎨
